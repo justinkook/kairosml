@@ -1,0 +1,26 @@
+html, body {
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+}
+
+p {
+    margin: 10px;
+}
+
+h1 {margin-bottom: 20px;}
+
+button {
+    margin: 10px
+}
+
+#face {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+#classifyBtn {
+    display: none;
+}
